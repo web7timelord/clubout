@@ -1,0 +1,22 @@
+﻿/*
+ * The Typekit service used to deliver this font or fonts for use on websites
+ * is provided by Adobe and is subject to these Terms of Use
+ * http://www.adobe.com/products/eulas/tou_typekit. For font license
+ * information, see the list below.
+ *
+ * antique-olive:
+ *   - http://typekit.com/eulas/000000000000000077359e8b
+ *
+ * © 2009-2024 Adobe Systems Incorporated. All Rights Reserved.
+ */
+/*{"last_published":"2022-06-01 13:30:47 UTC"}*/
+
+@import url("p.css");
+
+@font-face {
+font-family:"antique-olive";
+src:url("af/ec0d4b/000000000000000077359e8b/30/l") format("woff2"),url("af/ec0d4b/000000000000000077359e8b/30/d") format("woff"),url("af/ec0d4b/000000000000000077359e8b/30/a") format("opentype");
+font-display:auto;font-style:normal;font-weight:700;font-stretch:normal;
+}
+
+.tk-antique-olive { font-family: "antique-olive",sans-serif; }
